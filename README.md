@@ -15,3 +15,6 @@ nc localhost 4000
 ```
 
 If you want to run a server over your network, just tweak where it's being served
+
+## Credits
+Based entirely off of the final example shown [here](http://build-podcast.com/node/)
